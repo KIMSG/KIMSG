@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **charge of building solutions**
 
-- 🌱 I’m currently learning **laravel, python**
+- 🌱 I’m currently learning **laravel, python** but, making spring 🤔
 
 - 👨‍💻 All of my projects are available at [https://www.notion.so/mububja/85d0037d9ad34bfe86a97bdec45f31a6](https://www.notion.so/mububja/85d0037d9ad34bfe86a97bdec45f31a6)
 
