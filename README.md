@@ -1,24 +1,40 @@
-<h1 align="center">Hi, I'm Seulgi Kim</h1>
-<h3 align="center">Backend Engineer for High-Traffic Systems · Domain Logic, Consistency, Reliability</h3>
+<h1 align="center">Seulgi Kim</h1>
+<h3 align="center">Senior Backend Engineer · Domain, Consistency, Reliability</h3>
 
-- 🚚 I design and build backend systems for high-throughput financial and logistics platforms.
-- 🧩 I focus on domain modeling, transaction consistency, and idempotent processing.
-- ⚙️ I ship and operate services with Node.js (Koa), Spring Boot, MySQL/MariaDB, MongoDB, Redis, Kubernetes, and AWS.
-- 🔄 I bring 11+ years of backend experience and currently extend enterprise-grade engineering into Node/Kubernetes environments.
+I design backend systems where correctness and consistency matter.
 
-### Selected Impact
-- Designed and operated a messaging platform handling **thousands of messages per second**, reducing message loss rate to **<0.01%**.
-- Improved non-face-to-face customer onboarding flow by **30%** through backend optimization and real-time WebSocket integration.
-- Built and maintained a large-scale data pipeline processing **150,000+ items** to support automated ordering and supplier-matching logic.
-- Led backend architecture in a startup team, stabilizing core order, payment, and settlement services.
+- 11+ years building production systems across enterprise banking and startup environments.
+- Experienced in high-throughput financial messaging (thousands TPS, <0.01% loss rate).
+- Currently designing logistics backend systems in Node.js/Kubernetes environments.
 
-### Tech Stack
-- **Backend**: Node.js (Koa), Java/Spring Boot, Sequelize
-- **Data**: MySQL, MariaDB, MongoDB, Redis, Oracle
-- **Platform**: Kubernetes (ArgoCD, Helm, Loki/Promtail, Tempo), AWS
-- **Delivery**: GitHub Actions, Git workflows
+---
 
-- 👨‍💻 Projects: [Notion Portfolio](https://www.notion.so/mububja/85d0037d9ad34bfe86a97bdec45f31a6)
-- 📝 Articles: [kimsg.tistory.com](http://kimsg.tistory.com/)
-- 📄 Experience: [Rocketpunch](https://www.rocketpunch.com/@gimseulgi.4)
-- 📫 Contact: **yuiox17@gmail.com**
+### What I Focus On
+
+- Transaction boundaries and idempotent processing
+- State consistency across recalculation and webhook flows
+- Designing APIs that reflect real-world domain constraints
+- Operating services safely under SLA requirements
+
+---
+
+### Selected Systems
+
+**Banking Messaging Platform**
+- Architected queue-based transaction processing under strict SLA constraints
+
+**Digital Identity Verification**
+- Reduced onboarding time by 30% through backend optimization
+
+**Food Procurement Platform**
+- Built and operated a 150,000+ item data pipeline
+- Led backend architecture in startup-scale production
+
+---
+
+### Stack
+
+**Backend**: Node.js (Koa), Spring Boot, Java  
+**Data**: MySQL, MariaDB, Oracle, MongoDB, Redis  
+**Platform**: Kubernetes, AWS, ArgoCD, Helm, Loki  
+**Delivery**: GitHub Actions
