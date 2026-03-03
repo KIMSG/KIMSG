@@ -1,19 +1,20 @@
 <h1 align="center">Hi, I'm Seulgi Kim</h1>
-<h3 align="center">Backend Engineer for B2B Logistics · Domain Logic, Consistency, Reliability</h3>
+<h3 align="center">Backend Engineer for High-Traffic Systems · Domain Logic, Consistency, Reliability</h3>
 
-- 🚚 I design and build **TMS backend APIs** for real-world dispatch and fulfillment workflows.
-- 🧩 I focus on **domain modeling and consistency** across recalculation, webhook, and state transitions.
-- ⚙️ I ship and operate services with **Node.js (Koa), MySQL/MariaDB, MongoDB, Redis, Kubernetes, AWS**.
-- 🔄 I bring **11+ years of JVM experience** and now drive cloud-native backend delivery in Node/K8s environments.
+- 🚚 I design and build backend systems for high-throughput financial and logistics platforms.
+- 🧩 I focus on domain modeling, transaction consistency, and idempotent processing.
+- ⚙️ I ship and operate services with Node.js (Koa), Spring Boot, MySQL/MariaDB, MongoDB, Redis, Kubernetes, and AWS.
+- 🔄 I bring 11+ years of backend experience and currently extend enterprise-grade engineering into Node/Kubernetes environments.
 
 ### Selected Impact
-- Reduced dispatch recalculation time by **X%** by separating preprocessing and allocation logic.
-- Decreased webhook/state mismatch issues by **X%** through payload traceability and lifecycle validation.
-- Improved release reliability (CI/CD + GitOps) and cut rollback/recovery time by **X%**.
+- Designed and operated a messaging platform handling **thousands of messages per second**, reducing message loss rate to **<0.01%**.
+- Improved non-face-to-face customer onboarding flow by **30%** through backend optimization and real-time WebSocket integration.
+- Built and maintained a large-scale data pipeline processing **150,000+ items** to support automated ordering and supplier-matching logic.
+- Led backend architecture in a startup team, stabilizing core order, payment, and settlement services.
 
 ### Tech Stack
-- **Backend**: Node.js (Koa), Sequelize, Java/Spring
-- **Data**: MySQL, MariaDB, MongoDB, Redis
+- **Backend**: Node.js (Koa), Java/Spring Boot, Sequelize
+- **Data**: MySQL, MariaDB, MongoDB, Redis, Oracle
 - **Platform**: Kubernetes (ArgoCD, Helm, Loki/Promtail, Tempo), AWS
 - **Delivery**: GitHub Actions, Git workflows
 
